@@ -72,13 +72,13 @@ body{
     align-self: flex-start;
     position: relative;
     padding: 5px;
-    color: black;
+    color: white;
     font-weight: 500;
     top: 50%;
     transform: translateY(-50%);
     font-size: 30px;
     cursor: pointer;
-    box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.5);
+    /* box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.5); */
 }
 /* home end  */
 
